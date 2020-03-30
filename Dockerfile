@@ -6,6 +6,7 @@ RUN echo @testing http://dl-cdn.alpinelinux.org/alpine/edge/testing >> /etc/apk/
     chromium \
     nss \
     font-noto \
+    font-noto-cjk \
     font-noto-emoji@testing
 
 # Add Chrome as a user
